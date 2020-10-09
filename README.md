@@ -19,11 +19,11 @@ My name is Bhed Kumar Kushwaha and I'm a Computer Sicence Engineering Student.
 
 ## &#x1f4c8; GitHub Stats
 
-<div style="display:flex; flex-wrap:wrap;align-items:center;justify-content:space-around">
+<p align="center">
   <a href="https://github.com/bhed01/bhed01" style="margin-bottom:0.5rem;">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhed01&layout=compact&langs_count=8" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhed01&layout=compact&langs_count=8&hide=jupyter%20notebook" />
   </a>
   <a href="https://github.com/bhed01/bhed01">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=bhed01&show_icons=true&line_height=27&count_private=true" alt="Bhed's GitHub Stats" />
   </a>
-</div> 
+</p> 
