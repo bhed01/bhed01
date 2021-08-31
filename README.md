@@ -17,6 +17,7 @@ My name is Bhed Kumar Kushwaha and I'm a Computer Sicence Engineering Student.
 ![Shell Script](https://img.shields.io/badge/shell_script%20-%23121011.svg?&style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![C](https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white)
+![Node.js](https://img.shields.io/badge/Vue.js%20-%2342b883.svg?&style=for-the-badge&logo=vue.js&logoColor=white)
 ![Sqlite](https://img.shields.io/badge/sqlite-%2307405e.svg?&style=for-the-badge&logo=sqlite&logoColor=white)
 ![Node.js](https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white)
 
@@ -24,9 +25,9 @@ My name is Bhed Kumar Kushwaha and I'm a Computer Sicence Engineering Student.
 
 <p align="center">
   <a href="https://github.com/bhed01/bhed01" style="margin-bottom:0.5rem;">
-    <img align="center" src="https://github-readme-stats.bhed01.vercel.app/api/top-langs/?username=bhed01&langs_count=6&hide=jupyter%20notebook" alt="Most Used Lanuages"/>
+    <img align="center" src="https://github-readme-stats-bhed01.vercel.app//api/top-langs/?username=bhed01&langs_count=6&hide=jupyter%20notebook" alt="Most Used Lanuages"/>
   </a>
   <a href="https://github.com/bhed01/bhed01">
-    <img align="center" src="https://github-readme-stats.bhed01.vercel.app/api?username=bhed01&show_icons=true&line_height=29&count_private=true&custom_title=Bhed's%20GitHub%20Stats" alt="Bhed's GitHub Stats" />
+    <img align="center" src="https://github-readme-stats-bhed01.vercel.app//api?username=bhed01&show_icons=true&line_height=29&count_private=true&custom_title=Bhed's%20GitHub%20Stats" alt="Bhed's GitHub Stats" />
   </a>
 </p> 
