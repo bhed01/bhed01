@@ -1,5 +1,5 @@
 # Hi <img src="wave.gif" width="30px">
-My name is Bhed Kumar Kushwaha and I'm a Computer Sicence Engineering Student.
+My name is Bhed Kumar Kushwaha and I'm a Computer Science Engineering Student.
 
 [![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhed01/) [![Gmail](https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:kushwaha.ved@gmail.com)
 
